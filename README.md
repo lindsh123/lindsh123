@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lindsay Hwang
 
-<!--
-**lindsh123/lindsh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Georgia Tech, passionate about software engineering, software development, machine learning, and leveraging technology for real-world impact.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning more about **web development**, **machine learning**, and **big data**.
+- 🧠 My interests include **software engineering**, **software development**, **machine learning**, and **computer vision**.
+- 💬 Ask me about **Python**, **Java**, **C++**, **JavaScript**, and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages**: Python, Java, C++, JavaScript, SQL, HTML, CSS, C
+- **Frameworks**: Node.js, Flask, Next.js, React
+
+## 📫 How to reach me
+- LinkedIn: [Lindsay Hwang](https://www.linkedin.com/in/lindsay-hwang/)
+- Email: lindsayhwang@gmail.com
+
+Feel free to check out my repositories, contribute to my projects, or just say hello! 😊
