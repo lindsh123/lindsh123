@@ -9,7 +9,7 @@ I'm a Computer Science student at Georgia Tech, passionate about software engine
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, Java, C++, JavaScript, SQL, HTML, CSS, C
-- **Frameworks**: Node.js, Flask, Next.js, React
+- **Frameworks**: React, Node.js, Flask, Next.js
 
 ## 📫 How to reach me
 - LinkedIn: [Lindsay Hwang](https://www.linkedin.com/in/lindsay-hwang/)
