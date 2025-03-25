@@ -15,4 +15,3 @@ I'm a Computer Science student at Georgia Tech, passionate about software engine
 - LinkedIn: [Lindsay Hwang](https://www.linkedin.com/in/lindsay-hwang/)
 - Email: lindsayhwang@gmail.com
 
-Feel free to check out my repositories, contribute to my projects, or just say hello! 😊
